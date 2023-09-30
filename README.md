@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Masood
 - 🌱 I’m currently learning C++ and Assembly Language
-- 🌱Next thing in my to do list is Flutter
+- 🌱Next thing in my to do list is Flutter and SQL
   
 
 <!---
