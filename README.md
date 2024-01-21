@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Masood
 - 🌱 I’m currently learning Data Structures and Assembly Language
-- 🌱Next thing in my to do list is HTML/CSS and javascript 
+- 🌱Next thing in my to do list is HTML/CSS and Javascript 
 - 💬 Ask me about: C++
   
 
