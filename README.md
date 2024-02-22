@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimasood077" alt="alimasood077" /></a> </p>
 
 # 💫 About Me:
-- 👋 Hi, I’m Ali Masood<br>- 🌱 I’m currently learning Java Script<br>- 🌱Next thing in my to do list is React.js <br>- 💬 Ask me about: C++,Html,Css,Data Structures<br>  
+ 🌱 I’m currently learning Java Script<br>- 🌱Next thing in my to do list is React.js <br>- 💬 Ask me about: C++,Html,Css,Data Structures<br>  
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="200" align="right">
 
