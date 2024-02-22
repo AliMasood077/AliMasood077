@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'Am Ali Masood</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimasood077&label=Profile%20views&color=0e75b6&style=flat" alt="alimasood077" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimasood077" alt="alimasood077" /></a> </p>
+
 # 💫 About Me:
 - 👋 Hi, I’m Ali Masood<br>- 🌱 I’m currently learning Java Script<br>- 🌱Next thing in my to do list is React.js <br>- 💬 Ask me about: C++,Html,Css,Data Structures<br>  
 
