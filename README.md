@@ -16,7 +16,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AliMasood077&icon=2&color=0)](https://visitcount.itsvg.in)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ee7zjpw3tqr0woauo78oiliom&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=3fa03b)](https://spotify-github-profile.vercel.app/api/view?uid=ee7zjpw3tqr0woauo78oiliom&redirect=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
