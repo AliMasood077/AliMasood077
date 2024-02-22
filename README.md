@@ -10,8 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliMasood077&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMasood077&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ee7zjpw3tqr0woauo78oiliom&cover_image=false&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=3ba042&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ee7zjpw3tqr0woauo78oiliom&redirect=true)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ee7zjpw3tqr0woauo78oiliom&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ee7zjpw3tqr0woauo78oiliom&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=3ba042&bar_color_cover=true)]]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
