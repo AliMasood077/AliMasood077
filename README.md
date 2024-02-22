@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Ali Masood<br>- 🌱 I’m currently learning Java Script<br>- 🌱Next thing in my to do list is React.js <br>- 💬 Ask me about: C++,Html,Css,Data Structures<br>  
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
