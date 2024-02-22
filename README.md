@@ -18,6 +18,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ee7zjpw3tqr0woauo78oiliom)
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AliMasood077&icon=2&color=0)](https://visitcount.itsvg.in)
 
