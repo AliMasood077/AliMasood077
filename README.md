@@ -1,17 +1,5 @@
 # 💫 About Me:
 - 👋 Hi, I’m Ali Masood<br>- 🌱 I’m currently learning Java Script<br>- 🌱Next thing in my to do list is React.js <br>- 💬 Ask me about: C++,Html,Css,Data Structures<br>  
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Programmer GIF</title>
-</head>
-<body>
-    (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-</body>
-</html>
-
 
 
 # 💻 Tech Stack:
