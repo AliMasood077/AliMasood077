@@ -1,8 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Ali Masood<br>- 🌱 I’m currently learning Java Script<br>- 🌱Next thing in my to do list is React.js <br>- 💬 Ask me about: C++,Html,Css,Data Structures<br>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ee7zjpw3tqr0woauo78oiliom&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=3ba042&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ee7zjpw3tqr0woauo78oiliom&redirect=true)
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ee7zjpw3tqr0woauo78oiliom&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ee7zjpw3tqr0woauo78oiliom&cover_image=false&theme=karaoke&show_offline=false&background_color=000000&interchange=true)]]
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
