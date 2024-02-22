@@ -19,19 +19,6 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/ee7zjpw3tqr0woauo78oiliom)
 
-<!-- Add some additional styling -->
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease-in-out;
-  }
-
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
 
 
 
