@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimasood077&label=Profile%20views&color=0e75b6&style=flat" alt="alimasood077" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **JavaScript**
  
 - 💬 Ask me about **C++,Html,Css**
 
-- 📫 How to reach me **alimasood.0776@gmail.com**
+- 📫 How to reach me **alimasood.0775@gmail.com**
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="200" align="right">
 
